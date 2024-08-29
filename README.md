@@ -42,6 +42,13 @@ Author: Martin Ho
 
 Project Link: [Github](https://github.com/minimartzz/poison-mushrooms)
 
+<!-- Updates -->
+
+## :mega: Updates
+
+1. EDA for categorical and continuous variables
+2. XGBoost classifier baseline model
+
 <!-- Acknowledgments -->
 
 ## :gem: Acknowledgements
